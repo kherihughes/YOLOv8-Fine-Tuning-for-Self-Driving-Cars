@@ -1,3 +1,6 @@
+
+# Some result artefacts are showcased here, information about the entire experiment can be [viewed here](https://www.comet.com/syphinx/yolov8-finetuning/626748230dcb4cfb96bbb775dc76edc0?experiment-tab=panels&showOutliers=true&smoothing=0&xAxis=step)
+
 ## Confusion Matrix (Normalized)
 <img src="../images/training/confusion_matrix_normalized.png" width="500">
 
